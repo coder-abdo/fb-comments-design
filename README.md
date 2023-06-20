@@ -55,3 +55,6 @@ Contributions are welcome! If you find a bug or have an idea for a new feature, 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+- thanks to [Ahmed Shadid](https://ishadeed.com/)
+- Read the whole Article here: [Article](https://ishadeed.com/article/comment-component/)
